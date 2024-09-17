@@ -2,7 +2,7 @@
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Shashank Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">CTF Player teambi0s blr | Cryptanalysis</h3>
 
 🔭 I’m currently working on: EveryRupee, a Kotlin app for managing expenses. [Check it out on GitHub.](https://github.com/shashank-amireddy/myWeather) <br> 📝 I write blogs on: What I learn and explore across various domains. [Read more on my blog.](https://quantumloom.medium.com/)<br> 🌱 I’m currently learning: Web development and blockchain basics.<br> 💬 Ask me about: Web and app development, CTFs, and Flutter.<br> 👨‍💻 All of my projects are available at: [thequantumloom.xyz](https://www.thequantumloom.xyz/)<br> ⚡ Fun fact: I once built a sorting algorithm just for fun, and yes, it’s faster than I expected!
 
