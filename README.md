@@ -39,6 +39,7 @@ aitDSRM//hLuIG5gMAEA/ZIhKMtnTHZDVDIARKqnGV3oLYYM9ufOVJKu/qIcnwY=
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography for babies](https://quantumloom.medium.com/cryptography-for-babies-e87b51c2dbd3?source=rss-3ec706d382b6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
